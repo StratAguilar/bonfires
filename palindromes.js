@@ -14,6 +14,4 @@ function palindrome(str) {
   return isPalindrome;
 }
 
-
-
 console.log(palindrome("racE car."));
